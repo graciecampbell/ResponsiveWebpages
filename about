@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Webpage</title>
+    <meta name="viewport" content= "width=device-width, initial-scale=1.0" >
+    <link rel="stylesheet" href="style.css" >
+    <header>Welcome to this cool website</header>
+</head>
+<body>
+    <nav><a href="home.html">Home</a>
+        <a href="about.html">About</a>
+    </nav>
+    <div class="articles">
+            <article>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error placeat voluptatem sapiente laudantium eum at suscipit non quae accusamus. Odio incidunt et corporis amet voluptate aliquid reiciendis, quaerat qui quidem.
+                <img align="right"src= "https://th.bing.com/th/id/OIP.1BAuQJDbw1DjUiqxTHVFEQHaFW?pid=ImgDet&rs=1" width="50px" height="50px" >
+            </article>
+
+            <article>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error placeat voluptatem sapiente laudantium eum at suscipit non quae accusamus. Odio incidunt et corporis amet voluptate aliquid reiciendis, quaerat qui quidem.
+                <img align="right" src= "https://wallpapercave.com/wp/wp4591610.jpg" width="50px" heigth="50px">
+
+            </article>
+
+            <article>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error placeat voluptatem sapiente laudantium eum at suscipit non quae accusamus. Odio incidunt et corporis amet voluptate aliquid reiciendis, quaerat qui quidem.
+                <img align="right" src= "https://wallpapercave.com/wp/wp4853624.jpg" width= "30px" height="40px">
+
+            </article>
+            <article>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error placeat voluptatem sapiente laudantium eum at suscipit non quae accusamus. Odio incidunt et corporis amet voluptate aliquid reiciendis, quaerat qui quidem.
+                <img align="right" src="https://wallpapercave.com/wp/wp6172480.jpg" width="30px" height="40px">
+
+            </article>
+    </div>
+    <section> 
+        <a href="about.html">Learn More</a>
+        </section>
+    </div>
+    <footer>Copyright 2021</footer>
+
+</body>
+</html>
